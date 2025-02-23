@@ -6,7 +6,7 @@ revolutionary fashion website for everyone
 
 📌 Overview
 
-This is a full-fledged eCommerce website for fashion and accessories, offering a variety of products including:
+- This is a full-fledged eCommerce       website for fashion and accessories,  offering a variety of products including:
 
 👕 Clothing (Men, Women, Kids)
 
