@@ -34,18 +34,6 @@ Backend: Flask (Python)
 
 Database: Microsoft SQL Server (MSSQL)
 
-📂 Project Structure
-
-GROCERY_STORE/
-│── front_end/
-│   ├── static/
-│   │   ├── style.css
-│   │   ├── use.js
-│   ├── templates/
-│   │   ├── index.html
-│   ├── main.py
-│── README.md
-
 🔧 Setup Instructions
 
 Clone the Repository
