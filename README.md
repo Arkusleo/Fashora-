@@ -61,4 +61,5 @@ Feel free to fork this repo, submit pull requests, or suggest improvements!
 This project is licensed under the MIT License.
 
 ✨ Built with passion for fashion! ✨
+more upgrades coming 
 
